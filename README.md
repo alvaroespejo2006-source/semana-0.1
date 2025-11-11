@@ -6,7 +6,7 @@ Agencia de Viajes "Destinos del Mundo.
 
 ---
 
-## 📋 Contexto del Dominio
+##  Contexto del Dominio
 
 **Tipo de Negocio:** Agencia de Viajes y Turismo  
 **Nombre Comercial:** Destinos del Mundo  
