@@ -1,4 +1,4 @@
-## 📝 Actividad 1: Identificación de Objetos  
+##  Actividad 1: Identificación de Objetos  
 ### Ejercicio 01
 
 Identifica **5 objetos principales** del dominio:
